@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Image Audit"
+  short_description: "Audit Docker images and justify optimization changes"
+  default_prompt: "Use $docker-image-audit to audit my Dockerfile, explain problems, and recommend improvements to size, build time, runtime performance, and storage."
